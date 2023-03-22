@@ -1,0 +1,30 @@
+.jumbotron{
+    background-color: rgb(255, 41, 41);
+    padding-top: 4rem;
+}
+.navbar{
+    background-color: rgb(255, 41, 41);
+}
+#project{
+    background-color: #ff2929;
+    
+}
+#about{
+    background-color: #ffd700;
+}
+#contact{
+    background-color: #ffd700;
+}
+.lead{
+    font-size: 30px;
+}
+.card {
+    background-color: #ffd700;
+    color: rgb(0, 0, 0);
+}
+.footer{
+    background-color: #ff2929;
+}
+section{
+    padding-top: 5rem;
+}
